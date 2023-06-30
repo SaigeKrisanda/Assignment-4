@@ -2,7 +2,7 @@
 
 _Last updated: 29 June 2023_
 
-Assignment for CS601 Web Application Development. Exercise in JavaScript, HTML, and CSS. The program prompts the user to submit a form  Program accomplishes the following:
+Assignment for CS601 Web Application Development. Exercise in JavaScript, HTML, and CSS. The program prompts the user to submit a form that will direct to class dummy database on successful validation.  Program accomplishes the following:
 
 -> Creates a form that prompts the user for their first name, last name, the name of the facilitator (must be: Jen, Behdad, Chris, Christian, or Josh for validation) 
 
